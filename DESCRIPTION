@@ -1,0 +1,17 @@
+Package: Love
+Type: Package
+Title: Love Letter
+Version: 0.1.0
+Author: person(given = "Mengran",
+           family = "Li",
+           role = "cre",
+           email = "lmr0818@outlook.com")
+Maintainer: Mengran Li <lmr0818@outlook.com>
+Description: This is a R package that can generate love letters.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: no
+Depends: 
+    R (>= 2.10)
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
